@@ -147,3 +147,6 @@ define service {
 
 
 ```
+
+# Sample Output
+<img src=images/check_snmp_storage.png>
